@@ -88,11 +88,11 @@ De acuerdo con la estructura del código analizado en el repositorio:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=JCamiloOg" alt="Estadísticas GitHub Juan Camilo" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=JCamiloOg&rank_icon=github&custom_title=Juan%20Camilo%20Osorio%20Stats&show_icons=true&include_all_commits=true&theme=transparent" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JCamiloOg&langs_count=10" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JCamiloOg&layout=compact&langs_count=4&theme=transparent" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
