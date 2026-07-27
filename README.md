@@ -88,7 +88,7 @@ De acuerdo con la estructura del código analizado en el repositorio:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JCamiloOg)](https://github.com/stats-organization/github-stats-extended)
+  ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JcamiloOg)
   <img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </p>
 
