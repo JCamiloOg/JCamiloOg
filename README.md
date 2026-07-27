@@ -87,10 +87,10 @@ De acuerdo con la estructura del código analizado en el repositorio:
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcamiloog&theme=radical" alt="Racha de GitHub" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamiloog&layout=compact&theme=radical" alt="Lenguajes más usados" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+</p>
 
 ---
 
