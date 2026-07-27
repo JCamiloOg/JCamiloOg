@@ -87,8 +87,10 @@ De acuerdo con la estructura del código analizado en el repositorio:
 
 ## 📊 Estadísticas de GitHub
 
-
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JcamiloOg)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra" alt="Estadísticas GitHub Juan Camilo" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4" alt="Lenguajes más usados" width="48%" />
+</p>
 
 ---
 
