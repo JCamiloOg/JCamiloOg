@@ -1,7 +1,6 @@
 # Hi there, I'm Juan Camilo Osorio! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-1C64F2?style=for-the-badge&logo=vercel&logoColor=white)](https://enfermeros-salus-vida.vercel.app)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osoriojuancamilo315@gmail.com)
 
 ---
