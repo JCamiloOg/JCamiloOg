@@ -89,6 +89,9 @@ De acuerdo con la estructura del código analizado en el repositorio:
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=JCamiloOg" alt="Estadísticas GitHub Juan Camilo" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JCamiloOg&langs_count=10" alt="Lenguajes más usados" width="48%" />
 </p>
 
