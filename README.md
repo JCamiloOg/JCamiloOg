@@ -87,10 +87,10 @@ De acuerdo con la estructura del código analizado en el repositorio:
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcamiloog&show_icons=true&theme=radical&count_private=true" alt="Estadísticas GitHub Juan Camilo" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamiloog&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcamiloog&show_icons=true&theme=radical" alt="Estadísticas GitHub Juan Camilo" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamiloog&layout=compact&theme=radical" alt="Lenguajes más usados" width="45%" />
+</div>
 
 ---
 
