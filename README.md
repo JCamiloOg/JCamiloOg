@@ -63,6 +63,7 @@ Me apasiona construir soluciones web modernas, eficientes e intuitivas utilizand
 | 🩺 **Enfermeros SalusVida** | Plataforma web para servicios de salud y enfermería a domicilio en Medellín. Incluye catálogo interactivo, menú dinámico con Radix UI/Collapsible, carrusel con Embla y animaciones AOS. | **React 19**, **TypeScript**, **Tailwind CSS v4**, **Vite**, **Radix UI**, **AOS** | [🌐 Live Demo](https://enfermeros-salus-vida.vercel.app/) |
 | 🌌 **Aurora Onírica** | Aplicación web Full Stack orientada a experiencias digitales con tipado estricto end-to-end. | **React TS**, **Tailwind CSS**, **Node.js (Express TS)**, **MySQL** | [🌐 Live Demo](https://aurora-onirica-client.vercel.app/) |
 | 🛍️ **Tendencia Urbana 360** | Plataforma e-commerce / catálogo de moda urbana con persistencia de datos. | **React**, **Tailwind CSS**, **Node.js**, **Express.js**, **MySQL** | [🌐 Live Demo](https://tendencia-urbana360-client.vercel.app/) |
+| 🛍️ **NutricCheck** | NutriCheck es una solución de software diseñada para digitalizar, controlar y optimizar la entrega del Programa de Alimentación Escolar (PAE) en instituciones educativas. (Datos prueba: Usuario: 11223344, Contraseña: nutricheck123  | **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Express.js**, **MySQL** | [🌐 Live Demo](https://nutricheck-client.vercel.app/) |
 
 ---
 
